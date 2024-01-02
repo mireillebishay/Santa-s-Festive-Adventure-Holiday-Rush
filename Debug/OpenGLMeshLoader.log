@@ -1,0 +1,19 @@
+﻿  OpenGLMeshLoader.cpp
+D:\Semester 7\[Santa's Festive Adventure Holiday]\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Semester 7\[Santa's Festive Adventure Holiday]\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(211,27): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(211,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(211,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(228,27): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(228,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(228,41): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(230,27): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(230,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(230,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(815,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(957,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(994,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(1130,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Semester 7\[Santa's Festive Adventure Holiday]\OpenGLMeshLoader.cpp(1162,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> D:\Semester 7\[Santa's Festive Adventure Holiday]\Debug\OpenGLMeshLoader19.exe
